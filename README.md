@@ -1,6 +1,7 @@
 #   👋Welcome to my github repositories.
-### My name is Maxim Suvorov. I am Java developer
+### My name is Maxim Suvorov. I am a Java developer
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
 
 <!--
 **max10max/max10max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
