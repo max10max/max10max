@@ -1,7 +1,7 @@
 ##   👋Welcome to my GitHub repositories.
 ### My name is Maxim Suvorov. I am a Java developer.
 
-### My pet-projects!  [Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+### My pet-projects  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 * [Finance Manager](https://github.com/max10max/PersonalFinanceManager)
 * [Task Manager](https://github.com/max10max/Coursework-TODOs)
 * [Search Engine](https://github.com/max10max/SearchEngine-diplom)
